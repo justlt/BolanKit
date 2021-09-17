@@ -1,0 +1,6 @@
+framework module BolanKit {
+  umbrella header "BolanKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

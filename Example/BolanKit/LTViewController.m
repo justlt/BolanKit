@@ -7,6 +7,7 @@
 //
 
 #import "LTViewController.h"
+#import "FuckTest.h"
 
 @interface LTViewController ()
 
@@ -16,6 +17,10 @@
 
 - (void)viewDidLoad
 {
+    self.view.backgroundColor = [UIColor lightGrayColor];
+    FuckTest *fuck = [[FuckTest alloc] init];
+    [fuck p_printString:@"大师傅"];
+    
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }

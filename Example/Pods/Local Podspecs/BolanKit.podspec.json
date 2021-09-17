@@ -1,0 +1,22 @@
+{
+  "name": "BolanKit",
+  "version": "0.1.0",
+  "summary": "A short description of BolanKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/571888330@qq.com/BolanKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "571888330@qq.com": "1013246755@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/571888330@qq.com/BolanKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BolanKit/Classes/**/*"
+}
